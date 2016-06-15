@@ -1,0 +1,55 @@
+.container {
+	width: 72%;
+	// margin-top: 60px;
+}
+
+
+#page-title {
+	text-align: center;
+	margin-bottom: 30px;
+	box-shadow: 
+}
+
+.set {
+	margin-top: 15px;
+}
+#p1 {
+	background-color: #1ABC9C;
+}
+#p2 {
+	background-color: #16A085;
+}
+#p3 {
+	background-color: #16A085;
+}
+#p4 {
+	background-color: #1ABC9C;
+}
+
+.paragraph {
+	position: relative;
+	background-color: maroon;
+}
+
+.img-rounded {
+	border-radius: 10px 10px 10px 10px;
+}
+
+.demo-type-example {
+	padding-left: 25%;
+	margin-bottom: 80px;
+	position: relative;
+}
+.demo-text-note {
+	position: absolute;
+	display: block;
+	width: 320px;
+	left: 25px;
+	font-size: 24px;
+	line-height: 16px;
+	bottom: auto;
+}
+
+.footer-brand {
+	bottom: 10px;
+}
