@@ -50,6 +50,16 @@
 	bottom: auto;
 }
 
+
+
 .footer-brand {
-	bottom: 10px;
+	position: relative;
+}
+.footer-brand img {
+	width: 60px;  
+	position: absolute;
+	top: 36px;
+}
+footer p {
+	margin-top: 128px;
 }
